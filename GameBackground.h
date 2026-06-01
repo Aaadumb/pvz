@@ -1,5 +1,6 @@
 ﻿#pragma once
 
+
 #include <QWidget>
 #include <QPainter>
 #include "const.h"
