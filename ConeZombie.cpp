@@ -1,4 +1,5 @@
 ﻿#include "ConeZombie.h"
+
 ConeZombie::ConeZombie(int row, int y, QWidget* parent) {
 	this->curPic = new QLabel(parent);
 	this->curPic->setAttribute(Qt::WA_TransparentForMouseEvents);
