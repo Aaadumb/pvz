@@ -1,4 +1,5 @@
 ﻿#include "CommonZombie.h"
+
 CommonZombie::CommonZombie(int row,int y,QWidget* parent) {
 	this->curPic = new QLabel(parent);
 	this->curPic->resize(150, 150);//85 120
