@@ -1,4 +1,5 @@
 ﻿#pragma once
+
 #include <QLabel>
 #include <vector>
 #include <QString>
