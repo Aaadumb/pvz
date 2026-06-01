@@ -1,5 +1,6 @@
 ﻿#include "Shovel.h"
 
+
 Shovel::Shovel(QWidget *parent)
 	: QPushButton(parent)
 {
