@@ -1,4 +1,5 @@
 ﻿#pragma once //存储基本的一些数据
+
 //初始窗口的基本数据
 #define InitialWidgetX 400
 #define InitialWidgetY 200
