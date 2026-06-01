@@ -1,4 +1,5 @@
 ﻿#include "Pea.h"
+
 Pea::Pea(int row, int col, int x, int y, QWidget* parent) {
 	this->row = row;
 	this->col = col;
