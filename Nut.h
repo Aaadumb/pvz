@@ -1,4 +1,5 @@
 ﻿#pragma once
+
 #include "Plant.h"
 #include "const.h"
 class Nut :public Plant
