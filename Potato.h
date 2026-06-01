@@ -1,4 +1,5 @@
 ﻿#pragma once
+
 #include "Plant.h"
 class Potato : public Plant
 {
