@@ -1,5 +1,6 @@
 ﻿#pragma once
 
+
 #include <QPushButton>
 #include <QPainter>
 #include "const.h"
