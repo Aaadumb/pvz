@@ -1,4 +1,5 @@
 ﻿#include "Coin.h"
+
 Coin::Coin(QWidget*parent) {
 	
 	this->movie = new QMovie(gameCoinPic);
