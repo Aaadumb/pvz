@@ -1,5 +1,6 @@
 ﻿#include "GameBackground.h"
 
+
 GameBackground::GameBackground(QString pic,QWidget *parent)
 	: QWidget(parent)
 {
