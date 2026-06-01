@@ -1,4 +1,5 @@
 ﻿#include "GameSelectBackground.h"
+
 #include <QPixmap>
 #include <QSound>
 GameSelectBackground::GameSelectBackground(QWidget *parent)
