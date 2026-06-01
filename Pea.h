@@ -1,4 +1,5 @@
 ﻿#pragma once
+
 #include "Bullet.h"
 #include "const.h"
 #include <algorithm>
