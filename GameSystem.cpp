@@ -1,4 +1,5 @@
 ﻿#include "GameSystem.h"
+
 void GameSystem::zombieMovingSystem(vector<Zombie*>(&v)[6][10],bool& isGameOver) {
 	for (int i = 1; i <= 5; i++) {
 		for (int j = 1; j <= 9; j++) {
