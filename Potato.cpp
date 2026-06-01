@@ -1,4 +1,5 @@
 ﻿#include "Potato.h"
+
 Potato::Potato(int row, int col, QWidget* parent) {
 	this->row = row;
 	this->col = col;
