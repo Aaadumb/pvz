@@ -1,5 +1,6 @@
 ﻿#include "PlantCard.h"
 
+
 PlantCard::PlantCard(QString plant,int cd,int coinNeeded,QWidget *parent)
 	: QPushButton(parent)
 {
