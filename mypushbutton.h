@@ -1,5 +1,6 @@
 ﻿#pragma once
 
+
 #include <QPushButton>
 #include <QtWidgets/QMainWindow>
 class mypushbutton  : public QPushButton
