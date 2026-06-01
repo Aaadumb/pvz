@@ -1,4 +1,5 @@
 ﻿#include "Nut.h"
+
 Nut::Nut(int row, int col, QWidget* parent) {
 	this->row = row;
 	this->col = col;
