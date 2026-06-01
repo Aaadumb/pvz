@@ -1,4 +1,5 @@
-﻿#pragma once
+#pragma once
+
 #include "const.h"
 #include <QLabel>
 #include <QMovie>
