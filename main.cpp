@@ -1,4 +1,5 @@
 ﻿#include "StartGameWidget.h"
+
 #include <QtWidgets/QApplication>
 #include <ctime>
 #include <cstdlib>
