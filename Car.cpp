@@ -1,4 +1,5 @@
 ﻿#include "Car.h"
+
 Car::Car(int row,int col,int x,int y, QWidget* parent) {
 	this->row = row;
 	this->col = 1;
