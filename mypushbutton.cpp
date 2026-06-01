@@ -1,5 +1,6 @@
 ﻿#include "mypushbutton.h"
 
+
 mypushbutton::mypushbutton(QString prePic, QString relPic,QMainWindow*parent)
 	: QPushButton(parent)
 {
