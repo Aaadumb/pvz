@@ -1,5 +1,6 @@
 ﻿#include "mylabel.h"
 
+
 mylabel::mylabel(int width, int height, QString prePic, QString relPic, QMainWindow*parent)
 	: QLabel(parent)
 {
