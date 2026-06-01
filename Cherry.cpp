@@ -1,4 +1,5 @@
 ﻿#include "Cherry.h"
+
 Cherry::Cherry(int row, int col, QWidget* parent) {
 	this->row = row;
 	this->col = col;
