@@ -1,5 +1,6 @@
 ﻿#include "StartGameWidget.h"
 
+
 StartGameWidget::StartGameWidget(QWidget *parent)
     : QMainWindow(parent)
 {
