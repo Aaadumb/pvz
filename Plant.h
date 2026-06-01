@@ -1,4 +1,5 @@
 ﻿#pragma once
+
 class Zombie;
 #include <QLabel>
 #include <vector>
